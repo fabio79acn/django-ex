@@ -136,5 +136,5 @@ INTERNAL_IPS = ['127.0.0.1']
 
 ELASTIC_APM = {
    'SERVICE_NAME': 'django-ex',
-   'SERVER_URL': 'http://10.128.0.3:8200'
+   'SERVER_URL': 'http://ocp311-app-f4b.gluster.ocp:8200'
 }
